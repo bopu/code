@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>demo1</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+</head> 
+<body>
+<div class="header">
+<div class="logo" > <a href="#"> <img src="images/logo.jpg"  alt="图片关键词" /></a> </div>
+<div class="about">
+<ul>
+<li class="about_gif01"> <a href="#">设置首页</a></li>
+<li class="about_gif02"> <a href="#">加入收藏</a></li>
+</ul>
+</div>
+<div class="nav" > 
+<ul>
+<li><a href="#"> 网站首页</a></li>
+<li><a href="#"> 关于我们</a></li>
+<li><a href="#"> 新闻于媒体</a></li>
+<li><a href="#"> 产品于服务</a></li>
+<li><a href="#"> 责任于关怀</a></li>
+<li><a href="#"> 人力资源</a></li>
+<li><a href="#"> 国际业务</a></li>
+<li><a href="#"> 科技创新</a></li>
+<li><a href="#"> 化工于生活</a></li>
+</ul>
+</div>
+</body>
+</html>
